@@ -1,0 +1,14 @@
+com\invoicing\demo\model\Cliente.class
+com\invoicing\demo\service\ClienteServiceImp.class
+com\invoicing\demo\service\ClienteService.class
+com\invoicing\demo\controllers\ClienteController.class
+com\invoicing\demo\service\UsuarioService.class
+com\invoicing\demo\controllers\LoginController.class
+com\invoicing\demo\Dtos\ClienteDto.class
+com\invoicing\demo\Dtos\Credenciales.class
+com\invoicing\demo\Dtos\UsuarioDto.class
+com\invoicing\demo\service\LoginService.class
+com\invoicing\demo\repository\UsuarioRepository.class
+com\invoicing\demo\DemoApplication.class
+com\invoicing\demo\model\Usuario.class
+com\invoicing\demo\repository\ClienteReposotory.class

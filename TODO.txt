@@ -1,0 +1,2 @@
+ * agregar verificacion para usuarios y clientes (para que no haya repetidos y  campos no nulos)
+ 
